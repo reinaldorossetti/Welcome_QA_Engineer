@@ -123,7 +123,7 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 
 ---
 
-### 🌟 Mentores e QA Geral
+### 🌟 Mentores da Área de Qualidade
 
 
 - **Júlio de Lima:**  
