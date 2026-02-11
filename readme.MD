@@ -255,15 +255,13 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 ---
 
 ## 🎓 Trilhas de Conhecimento Completas
-
+- **QATS – Qualificação Aberta em QA e Teste de Software*:* https://github.com/reinaldorossetti/qway-academy-dados
 - **Programa QA Completo (Beelab):** https://treinamento.beelab.com.br/programa-qa-completo  
 - **Formação Carreira Tester (Alura):** https://cursos.alura.com.br/formacao-carreira-tester-qa  
 - **Formação em Teste de Software (Iterasys):** https://iterasys.com.br/pt/cursos/formacao-em-teste-de-software-videoconferencia  
 - **Mentoria Júlio de Lima:** https://www.juliodelima.com.br/mentoria/  
 - **Coletânea Chronos Academy:** https://chronosacademy.orbitpages.online/coletanea-especial-11-cursos-chronosacademy?orbt_src=orbt-vst-EBZfxEe-JrtG3FqZYC3m  
 - **Bootcamp Fernando Papito:** https://qaxperience.com  
-- **QATS – Qualificação Aberta em QA e Teste de Software*:* https://github.com/reinaldorossetti/qway-academy-dados
-
 ---
 
 ## 📺 Vídeos Obrigatórios para Iniciantes
@@ -300,6 +298,11 @@ Pirâmide de Testes
 **Artigo LinkedIn**: https://www.linkedin.com/pulse/pir%25C3%25A2mide-de-testes-na-pr%25C3%25A1tica-testing-pyramid-context-reinaldo-ip9mf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
 **Projeto GitHub**: https://github.com/reinaldorossetti/calculadora-flutter
 
+## Referências
+
+- [ISTQB CTFL Syllabus 4.0 – Capítulo 1](https://bstqb.online/files/syllabus_ctfl_4.0br.pdf)
+- ISO/IEC/IEEE 29119-1:2013 – Concepts and Definitions
+- IEEE 730:2014 – Software Quality Assurance Plans
 ---
 
 ## 📢 Tem Alguma Recomendação de Curso ou Canal Top?
