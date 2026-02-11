@@ -255,7 +255,7 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 ---
 
 ## 🎓 Trilhas de Conhecimento Completas
-- **QATS – Qualificação Aberta em QA e Teste de Software*:* https://github.com/reinaldorossetti/qway-academy-dados
+- **QATS – Qualificação Aberta em QA e Teste de Software*:* https://github.com/qway-tech/qway-academy-dados
 - **Programa QA Completo (Beelab):** https://treinamento.beelab.com.br/programa-qa-completo  
 - **Formação Carreira Tester (Alura):** https://cursos.alura.com.br/formacao-carreira-tester-qa  
 - **Formação em Teste de Software (Iterasys):** https://iterasys.com.br/pt/cursos/formacao-em-teste-de-software-videoconferencia  
