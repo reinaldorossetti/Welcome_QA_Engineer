@@ -300,7 +300,7 @@ Pirâmide de Testes
 
 ## Referências
 
-- [ISTQB CTFL Syllabus 4.0 – Capítulo 1](https://bstqb.online/files/syllabus_ctfl_4.0br.pdf)
+- [ISTQB CTFL Syllabus 4.0](https://bstqb.online/files/syllabus_ctfl_4.0br.pdf)
 - ISO/IEC/IEEE 29119-1:2013 – Concepts and Definitions
 - IEEE 730:2014 – Software Quality Assurance Plans
 ---
