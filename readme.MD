@@ -136,9 +136,10 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 - **Vinicius Pessoni:**  
   - LinkedIn: https://www.linkedin.com/in/viniciuspessoni/  
   - YouTube: https://www.youtube.com/@pessonizando  
+
 - **Daniel Castro:**  
   - LinkedIn: https://www.linkedin.com/in/danielcasttro/
-  - Grupo: https://www.linkedin.com/company/qway-tech/posts/?feedView=all
+  - Site: https://qway.com.br
 
 **Curso recomendado:** Teste de Software: Seja um Expert e Impulsione Sua Carreira.  
 - Udemy: https://www.udemy.com/course/teste-de-software/  
@@ -258,7 +259,7 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 ---
 
 ## 🎓 Trilhas de Conhecimento Completas
-- **QATS – Qualificação Aberta em QA e Teste de Software*:* https://github.com/qway-tech/qway-academy-dados
+- **QATS – Qualificação Aberta em QA e Teste de Software*:* https://qway.com.br
 - **Programa QA Completo (Beelab):** https://treinamento.beelab.com.br/programa-qa-completo  
 - **Formação Carreira Tester (Alura):** https://cursos.alura.com.br/formacao-carreira-tester-qa  
 - **Formação em Teste de Software (Iterasys):** https://iterasys.com.br/pt/cursos/formacao-em-teste-de-software-videoconferencia  
@@ -306,6 +307,7 @@ Pirâmide de Testes
 - [ISTQB CTFL Syllabus 4.0](https://bstqb.online/files/syllabus_ctfl_4.0br.pdf)
 - ISO/IEC/IEEE 29119-1:2013 – Concepts and Definitions
 - IEEE 730:2014 – Software Quality Assurance Plans
+- [QWAY](https://github.com/qway-tech/qway-academy-dados)
 ---
 
 ## 📢 Tem Alguma Recomendação de Curso ou Canal Top?
