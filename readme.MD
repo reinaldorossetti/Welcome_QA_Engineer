@@ -297,9 +297,9 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 
 Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter:
 
-Pirâmide de Testes
-**Artigo LinkedIn**: https://www.linkedin.com/pulse/pir%25C3%25A2mide-de-testes-na-pr%25C3%25A1tica-testing-pyramid-context-reinaldo-ip9mf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
-**Projeto GitHub**: https://github.com/reinaldorossetti/calculadora-flutter
+Pirâmide de Testes  
+**Artigo LinkedIn**: https://www.linkedin.com/pulse/pir%25C3%25A2mide-de-testes-na-pr%25C3%25A1tica-testing-pyramid-context-reinaldo-ip9mf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D  
+**Projeto GitHub**: https://github.com/reinaldorossetti/calculadora-flutter  
 
 ## Referências
 
