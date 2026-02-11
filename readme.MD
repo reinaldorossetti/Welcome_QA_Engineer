@@ -262,6 +262,7 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 - **Mentoria Júlio de Lima:** https://www.juliodelima.com.br/mentoria/  
 - **Coletânea Chronos Academy:** https://chronosacademy.orbitpages.online/coletanea-especial-11-cursos-chronosacademy?orbt_src=orbt-vst-EBZfxEe-JrtG3FqZYC3m  
 - **Bootcamp Fernando Papito:** https://qaxperience.com  
+- **QATS – Qualificação Aberta em QA e Teste de Software*:* https://github.com/reinaldorossetti/qway-academy-dados
 
 ---
 
@@ -292,6 +293,12 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 - **Pirâmide de Testes Mobile:** https://www.youtube.com/watch?v=NWt2Wm4G62s
 - **Shift-Left Testing:** https://www.youtube.com/watch?v=7natt7BBlZs
 - **Ambientes de Desenvolvimento:** https://talkingabouttesting.com/2020/02/01/ambientes-de-desenvolvimento-teste-desempenho-homologacao-pre-producao-producao/
+
+Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter:
+
+Pirâmide de Testes
+**Artigo LinkedIn**: https://www.linkedin.com/pulse/pir%25C3%25A2mide-de-testes-na-pr%25C3%25A1tica-testing-pyramid-context-reinaldo-ip9mf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
+**Projeto GitHub**: https://github.com/reinaldorossetti/calculadora-flutter
 
 ---
 
