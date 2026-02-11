@@ -136,6 +136,9 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 - **Vinicius Pessoni:**  
   - LinkedIn: https://www.linkedin.com/in/viniciuspessoni/  
   - YouTube: https://www.youtube.com/@pessonizando  
+- **Daniel Castro:**  
+  - LinkedIn: https://www.linkedin.com/in/danielcasttro/
+  - Grupo: https://www.linkedin.com/company/qway-tech/posts/?feedView=all
 
 **Curso recomendado:** Teste de Software: Seja um Expert e Impulsione Sua Carreira.  
 - Udemy: https://www.udemy.com/course/teste-de-software/  
