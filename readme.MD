@@ -132,6 +132,7 @@ Links completos dos grupos estão na seção "Grupos de Estudo e Networking" mai
 
 - **José Correia (Iterasys):**  
   - LinkedIn: https://www.linkedin.com/in/josecorreia/  
+  - Curso na Udemy: https://www.udemy.com/course/inicio-rapido-em-teste-de-software-e-qa/
 
 - **Vinicius Pessoni:**  
   - LinkedIn: https://www.linkedin.com/in/viniciuspessoni/  
